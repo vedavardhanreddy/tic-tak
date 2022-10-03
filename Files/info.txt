@@ -1,0 +1,1 @@
+This folder contains all the required documents for the HTML file to run smoothly.
